@@ -24,7 +24,6 @@ My name is Nelson 🇫🇷, I am a Computer Science Master's graduate with a spe
 <img src="https://www.1min30.com/wp-content/uploads/2017/04/Symbole-Windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="Raspberry" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="Gns3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://themachinebros.com/wp-content/uploads/2021/01/Img-24-6.jpg" alt="Cura" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex" height="40" style="vertical-align:top; margin:4px">
 </p>
 
