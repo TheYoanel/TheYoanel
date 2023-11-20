@@ -1,8 +1,6 @@
 # Nelson Lefebvre
-<img align="left" width="100" src="https://i.ibb.co/b2V0Y5F/image-2022-12-31-112354924.png"/>
-Hello ! 👋🏻🧔🏻‍♂️ My name is Nelson Lefebvre and I am a computer science Master's degree student with a concentration in "Decision and Optimization" (DOP) at the university of CAEN. 🗺️
-But I also did a university exchange in Omaha/UNO USA 🐂, where I improved my English level and acquired new skills.
-I also like to use my computer skills in other real life applications like 3d printing, raspberry pi etc..
+<img align="left" width="100" src="https://ibb.co/vmCB76S"/>
+My name is Nelson 🇫🇷, I am a Computer Science Master's graduate with a specialization in Decision and Optimization/AI-Data 🗂️. My academic journey features a transformative exchange program at the University of Omaha in 2022, where I refined my programming skills across various languages. I possess expertise in data analysis, software development with a robust focus on project management, and artificial intelligence. In tandem with my academic endeavors, I contributed as a data analyst at Carrefour, applying my analytical skills to real-world scenarios. This experience not only enhanced my proficiency in extracting meaningful insights from extensive datasets but also provided valuable insights into the intricacies of dynamic business environments, especially within the accounting domain. Explore my GitHub to witness the amalgamation of my academic knowledge and practical experience, showcasing projects that underscore my passion for leveraging technology to address real-world challenges.
 
 ## Contact : 
 ## <p ><a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:40"></a><a href="mailto:nelsonyoanel@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Python" height="40" style="vertical-align:top; margin:40"></a></p>
