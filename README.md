@@ -1,5 +1,5 @@
 # Nelson Lefebvre
-<img align="left" width="150" src="https://ibb.co/vmCB76S"/>
+<img align="left" width="150" src="https://i.ibb.co/2P06D1T/IMG-20230912-152702-1.jpg"/>
 My name is Nelson 🇫🇷, I am a Computer Science Master's graduate with a specialization in Decision and Optimization/AI-Data 🗂️. My academic journey features a transformative exchange program at the University of Omaha in 2022, where I refined my programming skills across various languages. I possess expertise in data analysis, software development with a robust focus on project management, and artificial intelligence. In tandem with my academic endeavors, I contributed as a data analyst at Carrefour, applying my analytical skills to real-world scenarios. This experience not only enhanced my proficiency in extracting meaningful insights from extensive datasets but also provided valuable insights into the intricacies of dynamic business environments, especially within the accounting domain. Explore my GitHub to witness the amalgamation of my academic knowledge and practical experience, showcasing projects that underscore my passion for leveraging technology to address real-world challenges.
 
 ## Contact : 
