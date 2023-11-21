@@ -2,8 +2,21 @@
 <a href="https://ibb.co/vmCB76S"><img img align="left" width="150" src="https://i.ibb.co/vmCB76S/IMG-20230912-152702-1.jpg" alt="IMG-20230912-152702-1" border="0"></a>
 My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master's graduate with a specialization in Decision and Optimization/AI-Data 🗂️. My academic journey features a transformative exchange program at the University of Omaha in 2022, where I refined my programming skills across various languages. I possess expertise in data analysis, software development with a robust focus on project management, and artificial intelligence. In tandem with my academic endeavors, I contributed as a data analyst at Carrefour, applying my analytical skills to real-world scenarios. This experience not only enhanced my proficiency in extracting meaningful insights from extensive datasets but also provided valuable insights into the intricacies of dynamic business environments, especially within the accounting domain. Explore my GitHub to witness the amalgamation of my academic knowledge and practical experience, showcasing projects that underscore my passion for leveraging technology to address real-world challenges.
 
-## Contact : 
-## <p ><a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:40"></a><a href="mailto:nelsonyoanel@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Python" height="40" style="vertical-align:top; margin:40"></a></p>
+## Contact:
+
+<p>
+  Linkedin : <a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:40px;">
+  </a>
+</p>
+
+<p>
+  Gmail : <a href="mailto:nelsonyoanel@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" style="vertical-align:top; margin:40px;">
+  </a>
+</p>
+
+
 
 ### I have a strong foundation in programming, with proficiency in the following languages:
 # Software/Data science
