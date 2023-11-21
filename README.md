@@ -1,18 +1,19 @@
-# Nelson Lefebvre
 <a href="https://goopics.net/i/yxkzxr"><img src="https://i.goopics.net/yxkzxr.png" alt="Image"></a>
+# Introduction
 My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master's graduate with a specialization in Decision and Optimization/AI-Data 🗂️. I have done a exchange program at the University of Omaha in 2022, where I refined my programming skills across various languages. I possess expertise in data analysis, software development with a robust focus on project management, and artificial intelligence. In tandem with my academic endeavors, I contributed as a data analyst at Carrefour, applying my analytical skills to real-world scenarios. This experience not only enhanced my proficiency in extracting meaningful insights from extensive datasets but also provided valuable insights into the intricacies of dynamic business environments, especially within the accounting domain. Explore my GitHub to witness the amalgamation of my academic knowledge and practical experience, showcasing projects that underscore my passion for leveraging technology to address real-world challenges.
 
 # Contact:
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; text-align: center; vertical-align: center;">
   <p style="margin: 0 auto;">
-    <a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;float: right;">
-      <img src="https://i.goopics.net/tkp9f6.png" alt="LinkedIn" height="75px" style="float: right;">
+    <a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px; float: right; vertical-align: center;">
+      <img src="https://i.goopics.net/tkp9f6.png" alt="LinkedIn" height="75px" style="float: right; vertical-align: center;">
     </a>
-    <a href="mailto:nelsonyoanel@gmail.com" style="margin-left: 10px;float: right;">
-      <img src="https://i.goopics.net/4r6fod.png" alt="Gmail" height="75px" style="float: left;">
+    <a href="mailto:nelsonyoanel@gmail.com" style="margin-left: 10px; float: right; vertical-align: center;">
+      <img src="https://i.goopics.net/4r6fod.png" alt="Gmail" height="75px" style="float: left; vertical-align: center;">
     </a>
   </p>
 </div>
+
 
 
 
