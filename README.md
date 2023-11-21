@@ -6,10 +6,10 @@ My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master'
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; vertical-align: center;">
   <p style="margin: 0 auto;">
     <a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px; float: right; vertical-align: center;">
-      <img src="https://i.goopics.net/tkp9f6.png" alt="LinkedIn" height="75px" style="float: right; vertical-align: center;">
+      <img src="https://i.goopics.net/4r6fod.png" alt="Gmail" height="75px" style="float: left; vertical-align: center;">
     </a>
     <a href="mailto:nelsonyoanel@gmail.com" style="margin-left: 10px; float: right; vertical-align: center;">
-      <img src="https://i.goopics.net/4r6fod.png" alt="Gmail" height="75px" style="float: left; vertical-align: center;">
+      <img src="https://i.goopics.net/tkp9f6.png" alt="LinkedIn" height="75px" style="float: right; vertical-align: center;">
     </a>
   </p>
 </div>
