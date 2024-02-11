@@ -20,16 +20,24 @@ My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master'
 
 
 
-
 ## Software/Data science
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" width="40" style="vertical-align:top; margin:4px"> Python (Machine learning, Software, Data Science)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" alt="R" height="40" width="40" style="vertical-align:top; margin:4px"> R (Data Analysis)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBi" height="40" width="40" style="vertical-align:top; margin:4px"> GDS/PowerBI (Data Reporting)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="40" width="40" style="vertical-align:top; margin:4px"> C (Robotics)
-- <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" height="40" width="40" style="vertical-align:top; margin:4px"> Java (Software)
+<div align="center">
+  <div style="text-align: left; width: 300px; border: 1px solid #ccc; padding: 20px;">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" width="40" style="vertical-align:top; margin:4px"> Python (Machine learning, Software, Data Science)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png" alt="R" height="40" width="40" style="vertical-align:top; margin:4px"> R (Data Analysis)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="PowerBi" height="40" width="40" style="vertical-align:top; margin:4px"> GDS/PowerBI (Data Reporting)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" alt="C" height="40" width="40" style="vertical-align:top; margin:4px"> C (Robotics)
+    <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="java" height="40" width="40" style="vertical-align:top; margin:4px"> Java (Software)
+  </div>
+</div>
 
 ## Web
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1971px-Firefox_logo%2C_2019.svg.png" alt="Web" height="40" width="40" style="vertical-align:top; margin:4px"> HTML/CSS/JavaScript/PHP
+<div align="center">
+  <div style="text-align: left; width: 300px; border: 1px solid #ccc; padding: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1971px-Firefox_logo%2C_2019.svg.png" alt="Web" height="40" width="40" style="vertical-align:top; margin:4px"> HTML/CSS/JavaScript/PHP
+  </div>
+</div>
+
 
 ## Other Tools:
 <p align="center">
@@ -51,5 +59,4 @@ Outside of my technical skills, I am also interested in entrepreneurship and am 
 Thank you for visiting my profile. I look forward to connecting with you and learning more about your projects and interests !
 
 ## My Github Stats:
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheYoanel)](https://github.com/anuraghazra/github-readme-stats)
