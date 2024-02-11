@@ -62,4 +62,11 @@ Curious minds are invited to delve into my GitHub repository, a treasure trove s
 In addition to my programming skills, I also have experience with networking/systems. I am also interested in entrepreneurship and am always looking for new ways to apply my knowledge and skills to real-world problems.
 
 ## My Github Stats:
+
+
+<div align="center">
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheYoanel)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
