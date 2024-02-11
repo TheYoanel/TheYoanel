@@ -1,6 +1,12 @@
 <a href="https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR"><img src="https://i.ibb.co/p4F5PrF/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;"></a>
 # Introduction
-My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master's graduate with a specialization in Decision and Optimization/AI-Data 🗂️. I have done a exchange program at the University of Omaha in 2022, where I refined my programming skills across various languages. I possess expertise in data analysis, software development with a robust focus on project management, and artificial intelligence. In tandem with my academic endeavors, I contributed as a data analyst at Carrefour, applying my analytical skills to real-world scenarios. This experience not only enhanced my proficiency in extracting meaningful insights from extensive datasets but also provided valuable insights into the intricacies of dynamic business environments, especially within the accounting domain. Explore my GitHub to witness the amalgamation of my academic knowledge and practical experience, showcasing projects that underscore my passion for leveraging technology to address real-world challenges.
+Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐. Armed with a Master's degree in Computer Science, specializing in Decision and Optimization as well as AI-Data 🗂️, I am poised at the intersection of cutting-edge technology and impactful solutions.
+
+My journey in academia led me to the University of Omaha in 2022, where I honed my programming prowess across a myriad of languages, enriching my skill set and broadening my horizons. With a keen interest in data analysis, software development, and artificial intelligence, I traverse the realms of technology with fervor and enthusiasm.
+
+Venturing beyond the confines of lecture halls, I embarked on a professional expedition as a data engineer at Carrefour, where I navigated through intricate datasets, unraveling insights and unraveling the mysteries of dynamic business landscapes, particularly within the realm of accounting. This hands-on experience not only augmented my analytical acumen but also provided invaluable insights into the intricacies of real-world challenges.
+
+Curious minds are invited to delve into my GitHub repository, a treasure trove showcasing the fusion of academic prowess and practical expertise. Explore projects that epitomize my zeal for leveraging technology to surmount real-world obstacles, and witness firsthand the impact of innovation in action.
 
 # Contact:
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; vertical-align: center;">
@@ -53,11 +59,7 @@ My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master'
 </p>
 
 
-In addition to my programming skills, I also have experience with networking/systems.
-
-Outside of my technical skills, I am also interested in entrepreneurship and am always looking for new ways to apply my knowledge and skills to real-world problems.
-
-Thank you for visiting my profile. I look forward to connecting with you and learning more about your projects and interests !
+In addition to my programming skills, I also have experience with networking/systems. I am also interested in entrepreneurship and am always looking for new ways to apply my knowledge and skills to real-world problems.
 
 ## My Github Stats:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheYoanel)](https://github.com/anuraghazra/github-readme-stats)
