@@ -9,7 +9,7 @@ My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master'
       <img src="https://i.ibb.co/mcnvWxS/CONNECT-WITH-ME.png" alt="Gmail" height="75px" style="float: left; vertical-align: center;">
     </a>
     <a href="mailto:nelsonyoanel@gmail.com" style="margin-left: 10px; float: right; vertical-align: center;">
-      <img src="https://i.ibb.co/D4YtX7X/CONNECT-WITH-ME-1.png" alt="LinkedIn" height="75px" style="float: right; vertical-align: center;">
+      <img src="https://i.ibb.co/grTp9jf/CONNECT-WITH-ME-1.png" alt="LinkedIn" height="75px" style="float: right; vertical-align: center;">
     </a>
   </p>
 </div>
