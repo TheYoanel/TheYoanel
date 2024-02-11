@@ -4,7 +4,7 @@ My name is Nelson Lefebvre, I am french 🥐 and I am a Computer Science Master'
 
 # Contact:
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; vertical-align: center;">
-  <p style="margin: 0 auto;">
+  <p style="margin: 0 auto;" align='center'>
     <a href="https://www.linkedin.com/in/nelson-lefebvre-94ab6321a/" target="_blank" rel="noopener noreferrer" style="margin-right: 10px; float: right; vertical-align: center;">
       <img src="https://i.ibb.co/mcnvWxS/CONNECT-WITH-ME.png" alt="Gmail" height="75px" style="float: left; vertical-align: center;">
     </a>
