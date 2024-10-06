@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR"><img src="https://i.ibb.co/p4F5PrF/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;"></a>
 # Introduction
-Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐. Armed with a Master's degree in Computer Science, specializing in Decision and Optimization as well as AI-Data 🗂️, I am poised at the intersection of cutting-edge technology and impactful solutions.
+Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐.
 
 I hold a Master’s degree in Computer Science, specializing in Decision-Making, Optimization, and AI-Data. During my studies, I had the privilege of participating in a university exchange program at the esteemed University of Omaha in 2022, which significantly enhanced my programming skills.
 
