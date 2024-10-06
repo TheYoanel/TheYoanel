@@ -2,10 +2,11 @@
 # Introduction
 Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐. Armed with a Master's degree in Computer Science, specializing in Decision and Optimization as well as AI-Data 🗂️, I am poised at the intersection of cutting-edge technology and impactful solutions.
 
-My journey in academia led me to the University of Omaha in 2022, where I honed my programming prowess across a myriad of languages, enriching my skill set and broadening my horizons. With a keen interest in data analysis, software development, and artificial intelligence, I traverse the realms of technology with fervor and enthusiasm.
+I hold a Master’s degree in Computer Science, specializing in Decision-Making, Optimization, and AI-Data. During my studies, I had the privilege of participating in a university exchange program at the esteemed University of Omaha in 2022, which significantly enhanced my programming skills.
 
-Venturing beyond the confines of lecture halls, I embarked on a professional expedition as a data engineer at Carrefour, where I navigated through intricate datasets, unraveling insights and unraveling the mysteries of dynamic business landscapes, particularly within the realm of accounting. This hands-on experience not only augmented my analytical acumen but also provided invaluable insights into the intricacies of real-world challenges.
+My expertise is primarily in data analysis, software development, and project management, with a strong focus on artificial intelligence. I have practical experience as a Data Analyst at Carrefour and Credit Agricole, where I applied my analytical skills to real-world challenges, refining my ability to derive actionable insights from large datasets. This role deepened my understanding of the complexities of dynamic business environments, particularly within accounting teams.
 
+Currently, I am a VIE in IS&T at Alstom, where I support project execution, manage training across the Americas, and oversee various technical initiatives. My passion for data-driven decision-making and process improvement continues to drive my professional journey.
 Curious minds are invited to delve into my GitHub repository, a treasure trove showcasing the fusion of academic prowess and practical expertise. Explore projects that epitomize my zeal for leveraging technology to surmount real-world obstacles, and witness firsthand the impact of innovation in action.
 
 # Contact:
