@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR"><img src="https://i.ibb.co/p4F5PrF/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;"></a>
+<a href="https://www.linkedin.com/in/nelson-lefebvre/?locale=fr_FR"><img src="https://i.ibb.co/kK1jsJs/Copie-de-White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" style="width: 100%; height: auto; display: block;"></a>
 # Introduction
 Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐.
 
