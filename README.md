@@ -3,15 +3,11 @@
 </a>
 
 # Introduction
-Greetings! My name is Nelson Lefebvre, a passionate and dedicated individual hailing from France 🥐.
-
 I hold a Master’s degree in Computer Science, specializing in Decision-Making, Optimization, and AI-Data. During my studies, I had the privilege of participating in a university exchange program at the esteemed University of Omaha in 2022, which significantly enhanced my programming skills.
 
 My expertise is primarily in data analysis, software development, and project management, with a strong focus on artificial intelligence. I have practical experience as a Data Analyst at Carrefour and Credit Agricole, where I applied my analytical skills to real-world challenges, refining my ability to derive actionable insights from large datasets. This role deepened my understanding of the complexities of dynamic business environments, particularly within accounting teams.
 
 Currently, I am a VIE in IS&T at Alstom, where I support project execution, manage training across the Americas, and oversee various technical initiatives. My passion for data-driven decision-making and process improvement continues to drive my professional journey.
-
-Curious minds are invited to delve into my GitHub repository, a treasure trove showcasing the fusion of academic prowess and practical expertise. Explore projects that epitomize my zeal for leveraging technology to surmount real-world obstacles, and witness firsthand the impact of innovation in action.
 
 # Contact:
 <div style="display: flex; justify-content: center; align-items: center; text-align: center; vertical-align: center;">
