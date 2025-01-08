@@ -5,7 +5,7 @@
 # Introduction
 I hold a Master’s degree in Computer Science, specializing in Decision-Making, Optimization, and AI-Data. During my studies, I had the privilege of participating in a university exchange program at the esteemed University of Omaha in 2022, which significantly enhanced my programming skills.
 
-My expertise is primarily in data analysis, software development, and project management, with a strong focus on artificial intelligence. I have practical experience as a Data Analyst at Carrefour and Credit Agricole, where I applied my analytical skills to real-world challenges, refining my ability to derive actionable insights from large datasets. This role deepened my understanding of the complexities of dynamic business environments, particularly within accounting teams.
+My expertise is primarily in data analysis, software development, with a strong focus on artificial intelligence. I have practical experience as a Data Analyst at Carrefour and Credit Agricole, where I applied my analytical skills to real-world challenges, refining my ability to derive actionable insights from large datasets. This role deepened my understanding of the complexities of dynamic business environments, particularly within accounting teams.
 
 Currently, I am a VIE in IS&T at Alstom, where I support project execution, manage training across the Americas, and oversee various technical initiatives. My passion for data-driven decision-making and process improvement continues to drive my professional journey.
 
@@ -46,7 +46,7 @@ Currently, I am a VIE in IS&T at Alstom, where I support project execution, mana
   <img src="https://cdn2.boryl.fr/2020/12/fd8a25a0-mysql.svg" alt="MySql" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="Wamp" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://www.1min30.com/wp-content/uploads/2017/04/Symbole-Windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/170px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Raspberry_Pi_logo.svg/1200px-Raspberry_Pi_logo.svg.png" alt="Raspberry" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="Gns3" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" alt="Latex" height="40" style="vertical-align:top; margin:4px">
