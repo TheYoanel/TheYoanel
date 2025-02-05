@@ -3,16 +3,15 @@
 </a>
 
 # 👋 Introduction
-I hold a **Master’s degree in Computer Science**, specializing in **Decision-Making, Optimization, and AI-Data**. 
+I hold a **Master’s degree in Computer Science** earned in **Caen, Normandy, France** , specializing in **Decision-Making, Optimization, and AI-Data**. 
 
 During my studies, I had the privilege of participating in a **university exchange program at the University of Omaha in 2022**, where I significantly enhanced my programming skills.
 
 ### 🛠 Expertise:
 - **Data Analysis** and **Software Development** with a strong focus on **Artificial Intelligence**.
-- Practical experience as a **Data Analyst** at **Carrefour** and **Credit Agricole**, where I solved real-world challenges and refined my skills in deriving actionable insights.
-- Currently a **VIE in IS&T at Alstom**, supporting project execution, managing training across the Americas, and overseeing technical initiatives.
+- Practical experience as a **Data Analyst** at **Carrefour** and **Data Admin** at **Credit Agricole**, where I solved real-world challenges and refined my skills in deriving actionable insights.
+- Currently a **VIE in IS&T at Alstom** in **Rochester**, supporting project execution (Network/Printer/PC/Phone), managing training across the Americas, creating KPI, and overseeing technical initiatives.
 
-I am passionate about **data-driven decision-making** and continuously seek opportunities to improve processes.
 
 ---
 
