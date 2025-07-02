@@ -43,12 +43,3 @@ During my studies, I had the privilege of participating in a **university exchan
 
 
 </div>
-
----
-
-# 📊 My GitHub Stats:
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheYoanel&layout=compact&theme=radical" alt="Top Langs">
-  </a>
-</div>
